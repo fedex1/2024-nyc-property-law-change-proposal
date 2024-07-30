@@ -1,0 +1,729 @@
+                       STATE OF NEW YORK
+   ________________________________________________________________________
+
+                                     10600
+
+                             IN ASSEMBLY
+                                 June 20, 2024
+                                  ___________
+
+   Introduced by COMMITTEE ON RULES -- (at request of M. of A. Rajkumar) --
+     read once and referred to the Committee on Real Property Taxation
+
+   AN ACT to amend the real property tax law, in relation to abolishing the
+     class share system in certain cities; and to repeal certain provisions
+     of such law relating thereto (Part A); to amend the real property tax
+     law, in relation to a homestead exemption (Part B); to amend the real
+     property tax law, in relation to a circuit breaker tax abatement (Part
+     C); to amend the real property law and the real property tax law, in
+     relation to the assessment of residential cooperative, condominium and
+     rental property; and to repeal certain provisions of the real property
+     tax law relating thereto (Part D); to amend the administrative code of
+     the city of New York, in relation to cooperative housing corporations;
+     and to repeal certain provisions of the real property tax law, in
+     relation to a partial tax abatement for residential real property held
+     in the cooperative or condominium form of ownership (Part E); and to
+     amend the administrative code of the city of New York and the real
+     property tax law, in relation to the determination of fair market
+     value (Part F)
+
+     The People of the State of New York, represented in Senate and   Assem-
+   bly, do enact as follows:
+
+     Section 1. This act shall be known and may be cited as the "five
+   borough fair property tax act".
+     § 2. This act enacts into law components of legislation necessary for
+   the implementation of New York city property tax reform. Each component
+   is wholly contained within a Part identified as Parts A through F. The
+   effective date for each particular provision contained within such Part
+   is set forth in the last section of such Part. Any provision in any
+   section contained within a Part, including the effective date of the
+   Part, which makes a reference to a section "of this act", when used in
+   connection with that particular component, shall be deemed to mean and
+   refer to the corresponding section of the Part in which it is found.
+   Section four of this act sets forth the general effective date of this
+   act.
+
+   EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+                        [ ] is old law to be omitted.
+                                                             LBD15160-03-4
+     A. 10600                            2
+
+                                    PART A
+
+     Section 1. Subdivision 1 of section 1802 of the real property tax law
+   is amended by adding a new paragraph class one-a to read as follows:
+     Class one-a: in a city with a population of one million or more (a)
+           all one, two and three family residential real property, includ-
+           ing such dwellings used in part for nonresidential purposes but
+           which are used primarily for residential purposes, including
+           property held in cooperative or condominium forms of ownership;
+           and provided that, notwithstanding the provisions of paragraph
+           (g) of subdivision twelve of section one hundred two of this
+           chapter, a mobile home or a trailer shall not be classified
+           within this class unless it is owner-occupied and separately
+           assessed; and (b) residential real property consisting of one
+           family house structures owned by the occupant, situated on land
+           held in cooperative ownership by owner occupiers; and (c) all
+           vacant land 
+
+    TO BE DELETED BEGIN
+           (i) other than such land in the borough of Manhat-
+           tan,
+    TO BE DELETED END
+
+           provided that any such vacant land which is not zoned resi-
+           dential must be situated immediately adjacent to property
+           improved with a residential structure as defined in subpara-
+           graphs (a) and (b) of this paragraph, be owned by the same owner
+           as such immediately adjacent residential property immediately
+           prior to and since January 1, 1989, and have a total area not
+           exceeding 10,000 square feet; 
+
+    TO BE DELETED BEGIN
+           and (ii) located in the borough of
+           Manhattan north of or adjacent to the north side of 110th street
+           provided such vacant land was classified within this class on
+           the assessment roll with a taxable status date of January 5,
+           2008 and the owner of such land has entered into a recorded
+           agreement with a governmental entity on or before December 31,
+           2008 requiring construction of housing affordable to persons or
+           families of low income in accordance with the provisions of the
+           private housing finance law; and (d) all residential real prop-
+           erty consisting of four-ten unit rental dwellings. Notwithstand-
+           ing the foregoing, such vacant land shall be classified accord-
+           ing to its use on the assessment roll with a taxable status date
+           immediately following commencement of construction, provided,
+           further, that construction pursuant to an approved plan for
+           affordable housing shall have commenced no later than December
+           31, 2010;
+    TO BE DELETED END
+
+     § 2. Paragraph class one of subdivision 1 of section 1802 of the real
+   property tax law, as amended by chapter 332 of the laws of 2008, is
+   amended to read as follows:
+     Class one: outside a city with a population of one million or more
+           (a) all one, two and three family residential real property,
+           including   such dwellings used in part for nonresidential
+           purposes but which are used primarily for residential purposes,
+           except such property held in cooperative or condominium forms of
+           ownership other than (i) property defined in subparagraphs (b)
+           and (c) of this paragraph and (ii) property which contains no
+           more than three dwelling units held in condominium form of
+           ownership and which was classified within this class on a previ-
+           ous assessment roll; and provided that, notwithstanding the
+           provisions of paragraph (g) of subdivision twelve of section one
+           hundred two of this chapter, a mobile home or a trailer shall
+           not be classified within this class unless it is owner-occupied
+           and separately assessed; and (b) residential real property not
+     A. 10600                            3
+
+           more than three stories in height held in condominium form of
+           ownership, provided that no dwelling unit therein previously was
+           on an assessment roll as a dwelling unit in other than condomin-
+           ium form of ownership; and (c) residential real property
+           consisting of one family house structures owned by the occupant,
+           situated on land held in cooperative ownership by owner occupi-
+           ers, provided that; (i) such house structures and land consti-
+           tuted bungalow colonies in existence prior to nineteen hundred
+           forty; and (ii) the land is held in cooperative ownership for
+           the sole purpose of maintaining one family residences for
+           members own use; and (d) all vacant land located within a
+           special assessing unit which is a city [(i) other than such land
+           in the borough of Manhattan], provided that any such vacant land
+           which is not zoned residential must be situated immediately
+           adjacent to property improved with a residential structure as
+           defined in subparagraphs (a) and (b) of this paragraph, be owned
+           by the same owner as such immediately adjacent residential prop-
+           erty immediately prior to and since January 1, 1989, and have a
+           total area not exceeding 10,000 square feet; [and (ii) located
+           in the borough of Manhattan north of or adjacent to the north
+           side of 110th street provided such vacant land was classified
+           within this class on the assessment roll with a taxable status
+           date of January 5, 2008 and the owner of such land has entered
+           into a recorded agreement with a governmental entity on or
+           before December 31, 2008 requiring construction of housing
+           affordable to persons or families of low income in accordance
+           with the provisions of the private housing finance law. Notwith-
+           standing the foregoing, such vacant land shall be classified
+           according to its use on the assessment roll with a taxable
+           status date immediately following commencement of construction,
+           provided further, that construction pursuant to an approved plan
+           for affordable housing shall commence no later than December 31,
+           2010;] and (e) all vacant land located within a special assess-
+           ing unit which is not a city, provided that such vacant land
+           which is not zoned residential must be situated immediately
+           adjacent to real property defined in subparagraph (a), (b) or
+           (c) of this paragraph and be owned by the same person or persons
+           who own the real property defined in such subparagraph imme-
+           diately prior to and since January 1, 2003;
+     § 3. The real property tax law is amended by adding a new section
+   1803-c to read as follows:
+     § 1803-c. Real property tax rates in a city of one million or more
+   during the phase-in period. 1. Beginning in the first year of the phase-
+   in period pursuant to subdivision seven of section eighteen hundred five
+   of this article, the legislative body of the assessing unit shall levy
+   annual taxes at such rates that the revenue projected is no more than
+   one per centum greater than the revenue of the previous year, and that
+   result in all properties in each property class contributing the same
+   percentage of gross levy as the previous year, irrespective of their
+   classification in the previous year. Thereafter, any change in annual
+   tax rates must retain the same ratio among class rates for the duration
+   of the phase-in period.
+     2. Beginning with the first year following the phase-in period pursu-
+   ant to subdivision seven of section eighteen hundred five of this arti-
+   cle, the commissioner of finance shall conduct a ratio study, in accord-
+   ance with the most recent Standard on Ratio Studies           from   the
+     A. 10600                            4
+
+   International Association of Assessing Officers, to determine the effec-
+   tive tax rates of all property classes and recommend any change in their
+   ratio.
+     3. In the first year following the phase-in period pursuant to subdi-
+   vision seven of section eighteen hundred five of this article, the
+   legislative body shall set annual tax rates for each property class in
+   proportion to its share of the total fair market value of all real prop-
+   erty as entered on the most recent final assessment roll.    Thereafter,
+   any change in annual tax rates must retain the same ratio among class
+   rates until the publication of a new ratio study pursuant to subdivision
+   two of this section, whereupon the legislative body may alter the ratio
+   of annual tax rates for the coming year in consultation with such study.
+     § 4. Subdivision (a) of section 1801 of the real property tax law, as
+   added by chapter 1057 of the laws of 1981, is amended to read as
+   follows:
+     (a) "Special assessing unit" means an assessing unit with a population
+   of one million or more, which is not a city.
+     § 5. Subdivision (f) of section 1801 of the real property tax law, as
+   amended by chapter 191 of the laws of 2001, is amended to read as
+   follows:
+     (f) "Base proportion" means 
+
+    TO BE DELETED BEGIN
+     [either: (1) for a special assessing unit
+   which is not a city, the proportion of the taxable assessed value of
+   real property which each class constituted of the total taxable assessed
+   value of all real property as entered on the final assessment roll
+   completed and filed in calendar year nineteen hundred eighty-one of such
+   special assessing unit or on the part of that assessment roll applicable
+   to a portion of the special assessing unit, except that for town and
+   county special districts not included within the definition of portion,
+   the applicable roll shall be that which was completed and filed in
+   calendar year two thousand one, or (2) for a special assessing unit
+   which is a city,]
+    TO BE DELETED END
+
+   the proportion of the taxable assessed value of real
+   property which each class constituted of the total taxable assessed
+   value of all real property as entered on the final assessment roll
+   completed and filed in calendar year nineteen hundred eighty-four, and
+   as adjusted to account for properties exempted under section four
+   hundred fifty-eight of this chapter to the extent such properties are
+   taxable for education purposes, provided, however, that the taxable
+   assessed value of real property subject to a transition assessment
+   pursuant to subdivision three of section eighteen hundred five of this
+   article shall be determined from the lesser of the transition assessment
+   or actual assessment.
+     § 6. Paragraph (b) of subdivision 1 of section 1803-b of the real
+   property tax law is REPEALED.
+     § 7. Subdivision 2 of section 305 of the real property tax law, as
+   added by chapter 1057 of the laws of 1981, is amended to read as
+   follows:
+     2. All real property in each assessing unit shall be assessed at a
+   uniform percentage of value (fractional assessment) 
+
+
+    TO BE DELETED BEGIN
+   [except that, if the
+   administrative code of a city with a population of one million or more
+   permitted, prior to January first, nineteen hundred eighty-one, a clas-
+   sified assessment standard, such standard shall govern unless such city
+   by local law shall elect to be governed by the provisions of this
+   section]. 
+    TO BE DELETED END
+
+   In a city with a population of one million or more, all real
+   property in each assessing unit shall be assessed at one hundred percent
+   of its fair market value.
+     A. 10600                             5
+
+     § 8. Section 1805 of the real property tax law is amended by adding a
+   new subdivision 7 to read as follows:
+     7. (a) Notwithstanding any provision of law to the contrary, in a city
+   with a population of one million or more, beginning with the assessment
+   roll completed in two thousand twenty-five, for a class one property,
+   the assessor shall compute any increase in tax liability due to an
+   increase in assessed value as a phase-in pursuant to the provisions of
+   this subdivision. The annual tax during each taxable year of the phase-
+   in period shall be computed as follows:
+     (i) multiply the sales-based valuation of the property in the first
+   taxable year of the phase-in by the new tax rate;
+     (ii) subtract from the result obtained in subparagraph (i) of this
+   paragraph the annual tax for the final taxable year before the phase-in
+   period;
+     (iii) divide the result obtained in subparagraph (ii) of this para-
+   graph by five;
+     (iv) add the result obtained in subparagraph (iii) of this paragraph
+   to the annual tax for the previous year;
+     (v) multiply the most recent sales-based valuation by the new tax
+   rate;
+     (vi) subtract the result obtained in subparagraph (i) of this para-
+   graph from the result obtained in subparagraph (v) of this paragraph;
+   and
+     (vii) add the result obtained in subparagraph (vi) of this paragraph
+   to the result obtained in subparagraph (iv) of this paragraph.
+     (b)   For taxable years during the phase-in period, the amount
+   prescribed by this subdivision for a property owner qualified for the
+   circuit breaker abatement pursuant to section four hundred twenty-five-b
+   of this chapter shall be computed to include such reduction.
+     (c) If a class one property is sold during the phase-in period, the
+   annual tax for the first taxable year after its sale shall be computed
+   as follows:
+     (i) Multiply the sales-based valuation of the property in the first
+   year of the phase-in by the new tax rate;
+     (ii) Subtract from the result obtained in subparagraph (i) of this
+   paragraph the annual tax for the final taxable year before the phase-in
+   period;
+     (iii) Divide the result obtained in subparagraph (ii) of this para-
+   graph by five;
+     (iv) Multiply the result obtained in subparagraph (iii) of this para-
+   graph by the number of taxable years remaining in the phase-in period,
+   including the one for which this annual tax is computed; and
+     (v) Add the result obtained in subparagraph (iv) of this paragraph to
+   the result obtained in subparagraph (i) of this paragraph.
+     Thereafter, the annual tax shall be the sales-based valuation multi-
+   plied by the new tax rate. The amount prescribed by this paragraph
+   for a property owner qualified for the circuit breaker abatement pursu-
+   ant to section four hundred twenty-five-b of this chapter shall be
+   computed to include such reduction.
+     § 9. This act shall take effect immediately.
+
+                                    PART B
+
+     Section 1. The real property tax   law   is   amended   by   adding   a   new
+   section 420-d to read as follows:
+     A. 10600                            6
+
+      § 420-d. Homestead exemption. 1. (a) Within a city having a popu-
+   lation of one million or more, any class one property shall be exempt
+   from taxation and special ad valorem levies as provided in subdivision
+   two of this section.
+     (b) To qualify for exemption pursuant to this section, the property
+   must be a class one property. If the property is not eligible but a
+   portion of the property is partially used by a qualifying owner as a
+   primary residence, that portion which is so used shall be entitled to
+   the exemption provided by this section.
+     (c) The property must serve as the primary residence of one or more of
+   the owners thereof.
+     (d) For purposes of the exemption authorized by this section, the
+   parcel's affiliated income may be less than five hundred thousand
+   dollars. As used in this section, the term "affiliated income" shall
+   mean the combined income of all of the owners of the parcel who resided
+   primarily thereon on the applicable taxable status date, and of any
+   owners' spouses residing primarily thereon. The term "income" as used
+   herein shall have the same meaning as in subdivision three of this
+   section.
+     (e) Title to that portion of real property owned by a cooperative
+   apartment corporation in which a tenant-stockholder of such corporation
+   resides, and which is represented by the tenant-stockholder's share or
+   shares of stock in such corporation as determined by its or their
+   proportional relationship to the total outstanding stock of the corpo-
+   ration, including that owned by the corporation, shall be deemed to be
+   vested in such tenant-stockholder. That proportion of the assessment of
+   such real property owned by a cooperative apartment corporation deter-
+   mined by the relationship of such real property vested in such tenant-
+   stockholder to such entire parcel and the buildings thereon owned by
+   such cooperative apartment corporation in which such tenant-stockholder
+   resides shall be subject to exemption from taxation pursuant to this
+   section and any exemption so granted shall be credited by the appropri-
+   ate taxing authority against the assessed valuation of such real proper-
+   ty; the reduction in real property taxes realized thereby shall be cred-
+   ited by the cooperative apartment corporation against the amount of such
+   taxes otherwise payable by or chargeable to such tenant-stockholder.
+     2. The homestead property tax exemption provided by this section shall
+   be as follows:
+
+        ANNUAL INCOME                      PERCENTAGE FAIR MARKET VALUE
+                                           ASSESSED VALUATION
+                                           EXEMPT FROM TAXATION
+
+        Up to $375,000                               20 per centum
+        Over $375,000 up to $400,000                 16 per centum
+        Over $400,000 up to $425,000                 12 per centum
+        Over $425,000 up to $450,000                 8 per centum
+        Over $450,000 up to $475,000                 4 per centum
+        Over $475,000 up to $500,000                 2 per centum
+
+     3. The term "income" as used in this section shall mean the "adjusted
+   gross income" for federal income tax purposes as reported on the appli-
+   cant's federal or state income tax return for the applicable income tax
+   year, subject to any subsequent amendments or revisions, reduced by
+   distributions, to the extent included in federal adjusted gross income,
+   received from an individual retirement account and an individual retire-
+     A. 10600                            7
+
+   ment annuity; provided that if no such return was filed for the applica-
+   ble income tax year, "income" shall mean the adjusted gross income that
+   would have been so reported if such a return had been filed. Provided
+   further, that where an income-eligibility determination is wholly or
+   partly based upon the income of one or more individuals who did not file
+   a return for the applicable income tax year, then in order for the
+   application to be considered complete, each such individual must file a
+   statement with the department showing the source or sources of their
+   income for that income tax year, and the amount or amounts thereof, that
+   would have been reported on such a return if one had been filed. Such
+   statement shall be filed at such time, and in such form and manner, as
+   may be prescribed by the department, and shall be subject to the secrecy
+   provisions of the tax law to the same extent that a personal income tax
+   return would be. The department shall make such forms and instructions
+   available for the filing of such statements. The assessor shall upon the
+   request of a taxpayer assist such taxpayer in the filing of the state-
+   ment with the department.
+     4. Any exemption provided by this section shall be computed after all
+   other partial exemptions allowed by law, excluding the school tax relief
+   (STAR) exemption authorized by section four hundred twenty-five of this
+   title, have been subtracted from the total amount assessed; provided,
+   however, that no parcel may receive an exemption for the same PILOT or
+   municipal tax purpose pursuant to both this section and section four
+   hundred sixty-seven of this title.
+     5. The commissioner may require such exemption to be granted upon
+   application by the owner or all of the owners of the real property on a
+   form prescribed and made available by the commissioner. The applicant
+   shall furnish such information as the commissioner shall require. Appli-
+   cations for the exemption authorized pursuant to this section shall be
+   considered timely filed if they are filed on or before the fifteenth day
+   of March of the appropriate year.
+     6. It shall be the responsibility of the commissioner to annually
+   determine all income standards pursuant to this section, to cause notice
+   thereof to be published in the state register, to disseminate notice
+   thereof to assessors, and such other parties as deemed appropriate.
+     § 2. This act shall take effect immediately.
+
+                                    PART C
+
+     Section 1. The real property tax law is amended by adding a new
+   section 425-b to read as follows:
+     § 425-b. Property tax circuit breaker abatement. 1. A city with a
+   population of one million or more shall provide for a real property tax
+   abatement as set forth in this section.
+     2. For the purposes of this section:
+     (a) "Qualified taxpayer" means a resident individual who owns the
+   class one or class two residential real property and who resides in such
+   property.
+     (b) "Household" or "members of the household" means a qualified
+   taxpayer or qualified taxpayers and all other persons, not necessarily
+   related, who all reside in the residential real property owned by the
+   taxpayer or taxpayers, and share its furnishings, facilities and accom-
+   modations; provided that no person may be a member of more than one
+   household at one time.
+     (c) "Household gross income" means the aggregate adjusted gross income
+   of all members of the household for the taxable year as reported for
+     A. 10600                            8
+
+   federal income tax purposes, or which would be reported as adjusted
+   gross income if a federal income tax return were required to be filed,
+   with the modifications in subsection (b) of section six hundred twelve
+   of the tax law but without the modifications in subsection (c) of such
+   section, plus any portion of the gain from the sale or exchange of prop-
+   erty otherwise excluded from such amount; earned income from sources
+   without the United States excludable from federal gross income by
+   section nine hundred eleven of the internal revenue code; support money
+   not included in adjusted gross income; nontaxable strike benefits;
+   supplemental security income payments; the gross amount of any pension
+   or annuity benefits to the extent not included in such adjusted gross
+   income (including, but not limited to, railroad retirement benefits and
+   all payments received under the federal social security act and veter-
+   ans' disability pensions); nontaxable interest received from the state
+   of New York, its agencies, instrumentalities, public corporations, or
+   political subdivisions (including a public corporation created pursuant
+   to agreement or compact with another state or Canada); workers' compen-
+   sation; the gross amount of "loss-of-time" insurance; and the amount of
+   cash public assistance and relief, other than medical assistance for
+   needy persons, paid to or for the benefit of the qualified taxpayer or
+   members of their household. Household gross income shall not include
+   surplus foods or other relief in kind or payments made to individuals
+   because of their status as victims of Nazi persecution as defined in
+   public law 103-286 or any disability compensation received by veterans
+   on account of injury or illness incurred or aggravated during military
+   service in the wars in Afghanistan and Iraq since September eleventh,
+   two thousand one. Provided, further, household gross income shall only
+   include all such income received by all members of the household while
+   members of such household.
+     (d) "Net real property tax" means the real property taxes assessed on
+   the residential real property owned and occupied by the taxpayer or
+   taxpayers after any exemption or abatement received pursuant to this
+   chapter.
+     3. (a) An abatement provided by this section shall be computed after
+   all other exemptions allowed by law have been subtracted from the total
+   amount assessed.
+     (b) The real property tax on a parcel of an eligible taxpayer shall be
+   abated by the abatement amount, which shall be calculated by multiplying
+   the taxable assessed valuation, after application of         all   other
+   exemptions for which such parcel is eligible, by the abatement tax rate
+   determined pursuant to this subdivision, provided that the abatement
+   amount shall not exceed ten thousand dollars.
+     (c) A qualified taxpayer whose property tax liability is greater than
+   ten per centum of their income shall be eligible for an abatement from
+   property taxes, up to ten thousand dollars, as follows:
+
+     Household gross income:         Abatement is:
+     $58,000 or less                 One hundred per centum of remaining tax
+                                     liability which is greater than ten
+                                     per centum of household income
+     Greater than $58,000 up to      Seventy-eight per centum of remaining
+     $65,000                         tax liability which is greater
+                                     than ten per centum of household income
+     Greater than $65,000 up to      Sixty-three per centum of remaining
+     $70,000                         tax liability which is greater than
+                                     ten per centum of household income
+     A. 10600                            9
+
+     Greater than $70,000 up to       Forty-eight per centum of remaining
+     $75,000                          tax liability which is greater than ten
+                                      per centum of household income
+     Greater than $75,000 up to       Thirty-two per centum of remaining
+     $80,000                          tax liability which is greater than ten
+                                      per centum of household income
+     Greater than $80,000 up to       Seventeen per centum of remaining tax
+     $85,000                          liability which is greater than ten
+                                      per centum of household income
+     Greater than $85,000 up to       Two per centum of remaining tax
+     $100,000                         liability which is greater than ten
+                                      per centum of household income
+     4. (a) Title to that portion of real property owned by a cooperative
+   apartment corporation in which a tenant-stockholder of such corporation
+   resides, and which is represented by the tenant-stockholder's share or
+   shares of stock in such corporation as determined by its or their
+   proportional relationship to the total outstanding stock of the corpo-
+   ration, including that owned by the corporation, shall be deemed to be
+   vested in such tenant-stockholder.
+     (b) That proportion of the assessment of such real property owned by a
+   cooperative apartment corporation determined by the relationship of such
+   real property vested in such tenant-stockholder to such entire parcel
+   and the buildings thereon owned by such cooperative apartment corpo-
+   ration in which such tenant-stockholder resides shall be subject to the
+   abatement pursuant to this section and any abatement so granted shall be
+   credited by the appropriate taxing authority against the assessed valu-
+   ation of such real property; the reduction in real property taxes real-
+   ized thereby shall be credited by the cooperative apartment corporation
+   against the amount of such taxes otherwise payable by or chargeable to
+   such tenant-stockholder.
+     5. The commissioner may require an application for such abatement to
+   be made annually by the owner, or all of the owners of the property, on
+   forms prescribed by the commissioner, and shall be filed in such
+   assessor's office on or before the appropriate taxable status date.
+     6. (a) The commissioner of finance shall initially, and annually ther-
+   eafter, determine the eligibility of taxpayers for the abatement allowed
+   by this section.
+     (b) At least sixty days prior to the appropriate taxable status date,
+   the assessor shall mail to each person who was granted an abatement
+   pursuant to this section on the latest completed assessment roll an
+   application form and a notice that such application must be filed on or
+   before the taxable status date and be approved in order for the
+   exemption to continue to be granted. Failure to mail such application
+   form or the failure of such person to receive the same shall not prevent
+   the levy, collection and enforcement of the payment of the taxes on
+   property owned by such person.
+     § 2. This act shall take effect January 1, 2025 and shall apply to
+   assessment rolls produced on and after such date.
+
+                                    PART D
+
+     Section 1. Section 581 of the real property tax law is REPEALED.
+     § 2. Subparagraph (ii) of paragraph (d) of subdivision 1 of section
+   339-y of the real property law, as amended by chapter 223 of the laws of
+   1989, is amended to read as follows:
+     A. 10600                           10
+
+     (ii) on and after January first, nineteen hundred eighty-four, the
+   homestead class of an approved assessing unit which has adopted the
+   provisions of section 
+
+    TO BE DELETED BEGIN
+   [one thousand nine] 
+    TO BE DELETED END
+
+    TO BE ADDED BEGIN
+   nineteen 
+    TO BE ADDED END
+
+   hundred three of the
+   real property tax law, or the homestead class of the portion outside an
+   approved assessing unit of an eligible split school district which has
+   adopted the provisions of section nineteen hundred three-a of the real
+   property tax law; provided, however, that, in an approved assessing unit
+   which adopted the provisions of section 
+
+    TO BE DELETED BEGIN
+   [one thousand nine] 
+    TO BE DELETED END
+
+    TO BE ADDED BEGIN
+   nineteen 
+    TO BE ADDED END
+
+
+   hundred three of the real property tax law prior to the effective date
+   of this subdivision, paragraph (b) of this subdivision shall apply to
+   all such real property (i) which is classified within the homestead
+   class pursuant to paragraph one of subdivision (e) of section 
+
+    TO BE DELETED BEGIN
+   [one thousand nine] 
+    TO BE DELETED END
+
+    TO BE ADDED BEGIN
+   nineteen 
+    TO BE ADDED END
+
+
+   hundred one of the real property tax law and (ii)
+   which, regardless of classification, was on the assessment roll prior to
+   the effective date of this subdivision unless the governing body of such
+   approved assessing unit provides by local law adopted after a public
+   hearing, prior to the taxable status date of such assessing unit next
+   occurring after December thirty-first, nineteen hundred eighty-three,
+   that such paragraph (b) shall not apply to such real property to which
+   this clause applies. 
+
+    TO BE DELETED BEGIN
+   [Provided further, however, real property subject
+   to the provisions of this subparagraph shall be assessed pursuant to
+   subdivision two of section five hundred eighty-one of the real property
+   tax law.]
+    TO BE DELETED END
+
+     § 3. Paragraph (b) of subdivision 1 of section 730 of the real proper-
+   ty tax law, as amended by chapter 154 of the laws of 1993, is amended to
+   read as follows:
+     (b) the property is: (i) improved by a one, two or three family
+   owner-occupied structure used exclusively for residential purposes other
+   than property subject to the assessment limitations of 
+
+
+    TO BE DELETED BEGIN
+   [section
+   five hundred eighty-one of this chapter and] 
+    TO BE DELETED END
+
+   article nine-B of the real prop-
+   erty law or (ii) the property is unimproved and is not of sufficient
+   size as determined by the assessing unit or special assessing unit to
+   contain a one, two or three family residential structure;
+     § 4. Paragraph (b) of subdivision 1 of section 1111 of the real prop-
+   erty tax law, as added by chapter 532 of the laws of 1994, is amended to
+   read as follows:
+     (b) "Residential property" means property which is improved by a one,
+   two or three family structure used exclusively for residential purposes
+   other than property subject to the assessment limitations of 
+
+    TO BE DELETED BEGIN
+   [section
+   five hundred eighty-one of this chapter and] 
+    TO BE DELETED END
+
+   article nine-B of the real
+   property law. A parcel shall be deemed to be residential property for
+   purposes of this article if the applicable tax roll shows that (i) the
+   assessor has assigned to the parcel a property classification code in
+   the residential category, or (ii) the parcel has been included in the
+   homestead class in an approved assessing unit, or in class one in a
+   special assessing unit.
+     § 5. Paragraph (a) of subdivision 1 of section 1113 of the real prop-
+   erty tax law, as added by chapter 516 of the laws of 2010, is amended to
+   read as follows:
+     (a) "Residential property" means property which is improved by a one,
+   two, or three family structure used exclusively for residential purposes
+   other than property subject to the assessment limitations of 
+
+    TO BE DELETED BEGIN
+   [section
+   five hundred eighty-one of this chapter and] 
+    TO BE DELETED END
+
+   article nine-B of the real
+   property law. A parcel shall be deemed to be residential property for
+   purposes of this article if applicable tax roll shows that (i) the
+   assessor has assigned to the parcel a property classification code in
+     A. 10600                           11
+
+   the residential category, or (ii) the parcel has been included in the
+   homestead class in an approved assessing unit, or in class one in a
+   special assessing unit.
+     § 6. This act shall take effect immediately.
+
+                                    PART E
+
+     Section 1. Section 467-a of the real property tax law is REPEALED.
+     § 2. Subdivision (g) of section 11-2105 of the administrative code of
+   the city of New York, as amended by section 10 of part LL of chapter 407
+   of the laws of 1999, is amended to read as follows:
+     (g) Every cooperative housing corporation shall be required to file an
+   information return with the commissioner of finance as follows: such
+   information return shall be filed by February fifteenth of the year two
+   thousand and of each year thereafter, covering the reporting period
+   beginning on January sixth of the year preceding the filing and ending
+   on January fifth of the year of the filing. For reporting periods begin-
+   ning before January sixth, nineteen hundred ninety-nine, such informa-
+   tion return shall be filed by July fifteenth of each year covering the
+   preceding period of January first through June thirtieth and by January
+   fifteenth of each year covering the preceding period of July first
+   through December thirty-first provided, however, that for the reporting
+   period from January first through June thirtieth, nineteen hundred
+   eighty-nine, such information return shall be filed by July thirty-
+   first, nineteen hundred eighty-nine. The return shall contain such
+   information regarding the transfer of shares of stock in the cooperative
+   housing corporation as the commissioner may deem necessary, including
+   but not limited to, the names, addresses and employer identification
+   numbers or social security numbers of the grantor and the grantee, the
+   number of shares transferred, the date of the transfer and the consider-
+   ation paid for such transfer
+
+
+    TO BE DELETED BEGIN
+   [, provided, however, that if such cooper-
+   ative housing corporation elects that such information return be deemed
+   an application for an abatement pursuant to paragraph (f) of subdivision
+   three of section four hundred sixty-seven-a of the real property tax
+   law, such return shall contain the information required pursuant to
+   paragraph (d) of subdivision three of such section]. 
+    TO BE DELETED END
+
+   The commissioner of
+   finance may enter into an agreement with the commissioner of taxation
+   and finance of the state of New York to provide that a single informa-
+   tion return may be filed for purposes of the tax imposed by this chapter
+   and the real estate transfer tax imposed by article thirty-one of the
+   tax law.
+     § 3. This act shall take effect immediately.
+
+                                    PART F
+
+     Section 1. Section 11-201 of the administrative code of the city of
+   New York is amended to read as follows:
+     § 11-201 Assessments on real property; general powers of finance
+   department. The commissioner of finance shall be charged generally with
+   the duty and responsibility of assessing all real property subject to
+   taxation within the city. The commissioner shall determine the fair
+   market value of real property for the purpose of taxation.
+     § 2. The real property tax law is amended by adding a new section
+   305-b to read as follows:
+     § 305-b. Determination of fair market value. In a city with a popu-
+   lation of one million or more, the commissioner of finance of such city
+     A. 10600                           12
+
+   shall determine fair market value of real property in such city for the
+   purposes of real property taxation.
+     § 3. This act shall take effect immediately.
+     § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+   sion, section or part of this act shall be adjudged by a court of compe-
+   tent jurisdiction to be invalid, such judgment shall not affect, impair
+   or invalidate the remainder thereof, but shall be confined in its opera-
+   tion to the clause, sentence, paragraph, subdivision, section or part
+   thereof directly involved in the controversy in which such judgment
+   shall have been rendered. It is hereby declared to be the intent of the
+   legislature that this act would have been enacted even if such invalid
+   provisions had not been included herein.
+     § 4. This act shall take effect immediately provided, however, that
+   the applicable effective date of Parts A through F of this act shall be
+   as specifically set forth in the last section of such Parts.
+
