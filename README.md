@@ -1,12 +1,13 @@
 # 2024-nyc-property-law-change-proposal
 
 If anyone here would like to review these changes I extracted the bill and put it in a git repository.
+
 See 
-[PDF of bill] (a10600.pdf)
+[PDF of bill](./a10600.pdf)
 
 and
 
-[Text of bill] (a10600.nolinenumbers.withmetadata.txt)
+[Text of bill](./a10600.nolinenumbers.withmetadata.txt)
 
 It would be nice to understand the bill and review all of it's changes and consequences.
 
